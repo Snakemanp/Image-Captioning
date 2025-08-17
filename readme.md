@@ -4,7 +4,7 @@
 - **Name**: Deep Learning
 - **Year**: 2025
 - **Semister**: 6
-- **Instructor**: Pawan Goyal
+- **Instructor**: https://cse.iitkgp.ac.in/~pawang/
 
 ## Team Details
 - **Team ID**: 24
