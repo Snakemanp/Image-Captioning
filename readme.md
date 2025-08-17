@@ -1,5 +1,10 @@
 # README - Deep Learning Assignment 2
 
+## Course Details
+- **Name**: Deep Learning
+- **Year**: 2025
+- **Semister**: 6
+
 ## Team Details
 - **Team ID**: 24
 - **Team Name**: Dr.Stone
