@@ -4,6 +4,7 @@
 - **Name**: Deep Learning
 - **Year**: 2025
 - **Semister**: 6
+- **Instructor**: Pawan Goyal
 
 ## Team Details
 - **Team ID**: 24
